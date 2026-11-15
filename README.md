@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Second-year B.E. student at Karpagam Institute of Technology, Coimbatore</b><br/>
+  <b>Third-year B.E. student at Karpagam Institute of Technology, Coimbatore</b><br/>
   I build mobile and web apps, and I am working towards cloud and software engineering roles.
 </p>
 
